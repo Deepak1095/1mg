@@ -131,5 +131,576 @@
       "id": 2
     }
    ]
-  }
-  }
+  },
+  "vitamins":[
+  {
+      "name": "HEALTHKART HK Vitals Biotin Hair Gummies, 10000 mcg Bio...",
+      "rating": "4.4",
+      "total_purchase": "642",
+      "price": "₹593",
+      "actual_Price": "₹799",
+      "discount": "25% off",
+      "id": 1
+    },
+    {
+      "name": "Bodywise 5000 mcg Biotin Gummies | 4 Months Pack | Stro...",
+      "rating": "4.2",
+      "total_purchase": "5,719",
+      "price": "₹1,449",
+      "actual_Price": "₹1,998",
+      "discount": "27% off",
+      "id": 2
+    },
+    {
+      "name": "Plix Apple Cider Vinegar Effervescent Tablet with mothe...",
+      "rating": "4.1",
+      "total_purchase": "34,431",
+      "price": "₹901",
+      "actual_Price": "₹1,050",
+      "discount": "14% off",
+      "id": 3
+    },
+    {
+      "name": "HEALTHKART HK Vitals DHT Blocker with Biotin, Helps Red...",
+      "rating": "4",
+      "total_purchase": "4,780",
+      "price": "₹256",
+      "actual_Price": "₹399",
+      "discount": "35% off",
+      "id": 4
+    },
+    {
+      "name": "HEALTHKART HK Vitals Muscle Builder, for Immunity, Musc...",
+      "rating": "4.2",
+      "total_purchase": "3,847",
+      "price": "₹399",
+      "actual_Price": "₹699",
+      "discount": "42% off",
+      "id": 5
+    },
+    {
+      "name": "Plix Apple Cider Vinegar 15 Effervescent Tablets Waterm...",
+      "rating": "4.2",
+      "total_purchase": "2,439",
+      "price": "₹1,149",
+      "actual_Price": "₹1,400",
+      "discount": "17% off",
+      "id": 6
+    },
+    {
+      "name": "OZiva HerBalance for PCOS (with Myo-Inositol), Natural ...",
+      "rating": "4.2",
+      "total_purchase": "11,676",
+      "price": "₹828",
+      "actual_Price": "₹899",
+      "discount": "7% off",
+      "id": 7
+    },
+    {
+      "name": "HEALTHKART HK Vitals Multivitamin, 30 No and Biotin 100...",
+      "rating": "4.3",
+      "total_purchase": "837",
+      "price": "₹403",
+      "actual_Price": "₹749",
+      "discount": "46% off",
+      "id": 9
+    },
+    {
+      "name": "power gummies Vitamins for Hair & Nails with Biotin, Zi...",
+      "rating": "4.2",
+      "total_purchase": "2,365",
+      "price": "₹741",
+      "actual_Price": "₹1,200",
+      "discount": "38% off",
+      "id": 10
+    },
+    {
+      "name": "MUSCLEBLAZE Fish Oil Gold 560 mg EPA, 400 mg DHA",
+      "rating": "4.4",
+      "total_purchase": "2,659",
+      "price": "₹806",
+      "actual_Price": "₹1,149",
+      "discount": "29% off",
+      "id": 11
+    },
+    {
+      "name": "OZiva Glutathione Builder,(ALA Vegetarian Tablets for ...",
+      "rating": "4",
+      "total_purchase": "2,516",
+      "price": "₹648",
+      "actual_Price": "₹799",
+      "discount": "18% off",
+      "id": 12
+    },
+    {
+      "name": "Neuherbs Deep Sea Omega 3 Fish Oil Triple Strength 2500...",
+      "rating": "4.3",
+      "total_purchase": "5,867",
+      "price": "₹711",
+      "actual_Price": "₹1,099",
+      "discount": "35% off",
+      "id": 13
+    },
+    {
+      "name": "HEALTHKART HK Vitals Triple Strength Fish Oil, 560 mg E...",
+      "rating": "4.4",
+      "total_purchase": "670",
+      "price": "₹418",
+      "actual_Price": "₹599",
+      "discount": "30% off",
+      "id": 14
+    },
+    {
+      "name": "Neuherbs Deep Sea Omega 3 Fish Oil Triple Strength 2500...",
+      "rating": "4.3",
+      "total_purchase": "1,369",
+      "price": "₹429",
+      "actual_Price": "₹549",
+      "discount": "21% off",
+      "id": 15
+    },
+    {
+      "name": "Neuherbs Plant Based Skin Collagen Booster with Hyaluro...",
+      "rating": "4.2",
+      "total_purchase": "2,043",
+      "price": "₹711",
+      "actual_Price": "₹999",
+      "discount": "28% off",
+      "id": 16
+    },
+    {
+      "name": "Healthy Nutrition Keto Guru Weight Management Water Sol...",
+      "rating": "4.1",
+      "total_purchase": "139",
+      "price": "₹955",
+      "actual_Price": "₹4,497",
+      "discount": "78% off",
+      "id": 17
+    },
+    {
+      "name": "MUSCLEBLAZE Omega 3 Fish Oil 1000 mg",
+      "rating": "4.3",
+      "total_purchase": "35,168",
+      "price": "₹828",
+      "actual_Price": "₹1,299",
+      "discount": "36% off",
+      "id": 18
+    },
+    {
+      "name": "OZiva Biotin, 10000+ mcg (With Amla, Sesbania, Natural...",
+      "rating": "4",
+      "total_purchase": "18,152",
+      "price": "₹597",
+      "actual_Price": "₹699",
+      "discount": "14% off",
+      "id": 20
+    },
+    {
+      "name": "okayfit OMEGA-3 SALMON Fish Oil (600 mg EPA / 400 mg DH...",
+      "rating": "4.1",
+      "total_purchase": "1,311",
+      "price": "₹134",
+      "actual_Price": "₹1,499",
+      "discount": "91% off",
+      "id": 21
+    },
+    {
+      "name": "Nutrabay Pro Fish Oil Omega 3 (Triple Strength - 1000m...",
+      "rating": "4.3",
+      "total_purchase": "1,038",
+      "price": "₹502",
+      "actual_Price": "₹799",
+      "discount": "37% off",
+      "id": 22
+    },
+    {
+      "name": "Bodywise 5000 mcg Biotin Gummies | 3 Months Pack | Stro...",
+      "rating": "4.2",
+      "total_purchase": "623",
+      "price": "₹1,249",
+      "actual_Price": "₹1,499",
+      "discount": "16% off",
+      "id": 23
+    },
+    {
+      "name": "OZiva Plant Based Biotin Xtra with Keratin Builder for ...",
+      "rating": "4.1",
+      "total_purchase": "975",
+      "price": "₹481",
+      "actual_Price": "₹649",
+      "discount": "25% off",
+      "id": 25
+    },
+    {
+      "name": "HEALTHKART HK Vitals Vitamin D3 (2000 IU, For Immunity...",
+      "rating": "4.2",
+      "total_purchase": "6,755",
+      "price": "₹664",
+      "actual_Price": "₹1,198",
+      "discount": "44% off",
+      "id": 26
+    },
+    {
+      "name": "HEALTHKART HK Vitals Multivitamin with Immunity Booster...",
+      "rating": "4.3",
+      "total_purchase": "14,907",
+      "price": "₹270",
+      "actual_Price": "₹310",
+      "discount": "12% off",
+      "id": 27
+    },
+    {
+      "name": "OZiva Hair Multivitamins Gummies (Biotin,Keratin Builde...",
+      "rating": "4.1",
+      "total_purchase": "393",
+      "price": "₹470",
+      "actual_Price": "₹599",
+      "discount": "21% off",
+      "id": 28
+    },
+    {
+      "name": "Zingavita Multivitamin Tablets for Men With Vitamins, O...",
+      "rating": "4.2",
+      "total_purchase": "860",
+      "price": "₹305",
+      "actual_Price": "₹899",
+      "discount": "66% off",
+      "id": 29
+    },
+    {
+      "name": "Healthy Nutrition Fat Cutter 60 Tablets for Weight Loss...",
+      "rating": "4.3",
+      "total_purchase": "12",
+      "price": "₹649",
+      "actual_Price": "₹1,499",
+      "discount": "56% off",
+      "id": 31
+    },
+    {
+      "name": "Man Matters 5000 mcg Biotin Gummies | 2 Months Pack | W...",
+      "rating": "4",
+      "total_purchase": "2,647",
+      "price": "₹854",
+      "actual_Price": "₹999",
+      "discount": "14% off",
+      "id": 32
+    },
+    {
+      "name": "FYTIKA HEALTHCARE PRODUCTS Let it Melt 1*60 Tablets",
+      "rating": "4",
+      "total_purchase": "679",
+      "price": "₹675",
+      "actual_Price": "₹999",
+      "discount": "32% off",
+      "id": 33
+    },
+    {
+      "name": "End2End Nutrition 10mg Melatonin Tablets With 250mg Tag...",
+      "rating": "4.4",
+      "total_purchase": "287",
+      "price": "₹939",
+      "actual_Price": "₹2,997",
+      "discount": "68% off",
+      "id": 34
+    },
+    {
+      "name": "HEALTHKART HK Vitals Fish Oil 1000mg with 180mg EPA and...",
+      "rating": "4.3",
+      "total_purchase": "52,828",
+      "price": "₹270",
+      "actual_Price": "₹399",
+      "discount": "32% off",
+      "id": 35
+    },
+    {
+      "name": "OZiva Plant Based Biotin Xtra with Keratin Builder for ...",
+      "rating": "4.1",
+      "total_purchase": "975",
+      "price": "₹878",
+      "actual_Price": "₹1,298",
+      "discount": "32% off",
+      "id": 36
+    },
+    {
+      "name": "Nutrabay Pro Multivitamin for men - 500mg",
+      "rating": "4.3",
+      "total_purchase": "4,075",
+      "price": "₹299",
+      "actual_Price": "₹699",
+      "discount": "57% off",
+      "id": 37
+    },
+    {
+      "name": "Bodywise Hair & Skin Nourish Kit | 120 Gummies | With B...",
+      "rating": "4.4",
+      "total_purchase": "130",
+      "price": "₹1,449",
+      "actual_Price": "₹2,198",
+      "discount": "34% off",
+      "id": 38
+    },
+    {
+      "name": "Himalayan Organics Multivitamin with Probiotics (60 Tab...",
+      "rating": "4.2",
+      "total_purchase": "167",
+      "price": "₹329",
+      "actual_Price": "₹650",
+      "discount": "49% off",
+      "id": 39
+    },
+    {
+      "name": "Plix Olena Plant-Based Collagen for Skin Elasticity & R...",
+      "rating": "4.1",
+      "total_purchase": "3,396",
+      "price": "₹787",
+      "actual_Price": "₹850",
+      "discount": "7% off",
+      "id": 40
+    },
+    {
+      "name": "HEALTHKART HK Vitals Skin Radiance Collagen Supplement ...",
+      "rating": "4.4",
+      "total_purchase": "389",
+      "price": "₹806",
+      "actual_Price": "₹1,649",
+      "discount": "51% off",
+      "id": 42
+    },
+    {
+      "name": "Plix Glutathione Skin Glow Effervescent Tablet 500mg fo...",
+      "rating": "4.1",
+      "total_purchase": "3,440",
+      "price": "₹1,449",
+      "actual_Price": "₹1,700",
+      "discount": "14% off",
+      "id": 43
+    },
+    {
+      "name": "Curevisor Salmon Fish Oil Omega-3 1000mg (360 EPA & 240...",
+      "rating": "4.1",
+      "total_purchase": "5,421",
+      "price": "₹106",
+      "actual_Price": "₹549",
+      "discount": "80% off",
+      "id": 44
+    },
+    {
+      "name": "Zingavita Maximum Strength Omega 3 Fish Oil 1000mg Caps...",
+      "rating": "4.2",
+      "total_purchase": "423",
+      "price": "₹327",
+      "actual_Price": "₹799",
+      "discount": "59% off",
+      "id": 45
+    },
+    {
+      "name": "HEALTHKART Skin Radiance Collagen Supplement, with Biot...",
+      "rating": "4.2",
+      "total_purchase": "3,372",
+      "price": "₹806",
+      "actual_Price": "₹1,099",
+      "discount": "26% off",
+      "id": 46
+    },
+    {
+      "name": "DOCTORS CHOICE SHREDZ PRO Hardcore Fat Burner Formula",
+      "rating": "4.1",
+      "total_purchase": "1,292",
+      "price": "₹1,509",
+      "actual_Price": "₹2,599",
+      "discount": "41% off",
+      "id": 47
+    },
+    {
+      "name": "Man Matters Biotin Hair Gummies | 90 Days Pack | Make H...",
+      "rating": "4.2",
+      "total_purchase": "57",
+      "price": "₹1,049",
+      "actual_Price": "₹1,199",
+      "discount": "12% off",
+      "id": 48
+    },
+    {
+      "name": "Evvora Salmon Fish Oil Capsules for Men & Women with Om...",
+      "rating": "4.9",
+      "total_purchase": "290",
+      "price": "₹149",
+      "actual_Price": "₹499",
+      "discount": "70% off",
+      "id": 49
+    },
+    {
+      "name": "LITVIT Multivitamin for Women Gummies with Probiotics f...",
+      "rating": "4.8",
+      "total_purchase": "168",
+      "price": "₹374",
+      "actual_Price": "₹1,000",
+      "discount": "62% off",
+      "id": 50
+    },
+    {
+      "name": "sunline alaska Deep Sea Fish Oil Omega 3 - 100 Softgels...",
+      "rating": "4.3",
+      "total_purchase": "1,479",
+      "price": "₹446",
+      "actual_Price": "₹999",
+      "discount": "55% off",
+      "id": 51
+    },
+    {
+      "name": "BIGMUSCLES NUTRITION Omega-3 Fish Oil Triple Strength|H...",
+      "rating": "4.3",
+      "total_purchase": "8,947",
+      "price": "₹307",
+      "actual_Price": "₹399",
+      "discount": "23% off",
+      "id": 53
+    },
+    {
+      "name": "Health Veda Organics Calcium Magnesium Zinc foe healthy...",
+      "rating": "4.6",
+      "total_purchase": "208",
+      "price": "₹299",
+      "actual_Price": "₹549",
+      "discount": "45% off",
+      "id": 54
+    },
+    {
+      "name": "ayuvya i-Gain natural weight booster, May helps in gain...",
+      "rating": "4.1",
+      "total_purchase": "138",
+      "price": "₹683",
+      "actual_Price": "₹1,099",
+      "discount": "37% off",
+      "id": 55
+    },
+    {
+      "name": "OZiva Bettr.Iron+(Plant Based Iron with Vitamin C for I...",
+      "rating": "4.2",
+      "total_purchase": "415",
+      "price": "₹518",
+      "actual_Price": "₹699",
+      "discount": "25% off",
+      "id": 56
+    },
+    {
+      "name": "HEALTHKART HK Vitals Vitamin E Capsules for Face and Ha...",
+      "rating": "4.3",
+      "total_purchase": "3,321",
+      "price": "₹365",
+      "actual_Price": "₹499",
+      "discount": "26% off",
+      "id": 57
+    },
+    {
+      "name": "FYTIKA HEALTHCARE PRODUCTS Let It Melt Garcinia Cambogi...",
+      "rating": "4",
+      "total_purchase": "679",
+      "price": "₹1,754",
+      "actual_Price": "₹2,997",
+      "discount": "41% off",
+      "id": 58
+    },
+    {
+      "name": "OZiva Plant-based HerBalance for PCOS, 250g + Daily Pro...",
+      "rating": "4.2",
+      "total_purchase": "11,676",
+      "price": "₹907",
+      "actual_Price": "₹1,448",
+      "discount": "37% off",
+      "id": 59
+    },
+    {
+      "name": "Vokin Biotech Keto Guru 20 Tablets For Weight Loss Effe...",
+      "rating": "3.9",
+      "total_purchase": "2,319",
+      "price": "₹962",
+      "actual_Price": "₹4,497",
+      "discount": "78% off",
+      "id": 60
+    },
+    {
+      "name": "Modicare Well Noni Juice With Kokum (1000 ml",
+      "rating": "4.3",
+      "total_purchase": "2,916",
+      "price": "₹469",
+      "actual_Price": "₹550",
+      "discount": "14% off",
+      "id": 61
+    },
+    {
+      "name": "Zingavita Mighty Vitamins Gummies for Kids (Multivitami...",
+      "rating": "4.4",
+      "total_purchase": "99",
+      "price": "₹378",
+      "actual_Price": "₹798",
+      "discount": "52% off",
+      "id": 62
+    },
+    {
+      "name": "Zingavita Multivitamin For Men 50+ With Essential Vitam...",
+      "rating": "4.1",
+      "total_purchase": "256",
+      "price": "₹284",
+      "actual_Price": "₹999",
+      "discount": "71% off",
+      "id": 64
+    },
+    {
+      "name": "MUSCLEBLAZE Liquid L-Carnitine with Branded Carnipure, ...",
+      "rating": "4.2",
+      "total_purchase": "2,347",
+      "price": "₹787",
+      "actual_Price": "₹1,099",
+      "discount": "28% off",
+      "id": 65
+    },
+    {
+      "name": "Zingavita Mighty Vitamins Gummies for Kids (Multivitami...",
+      "rating": "4.4",
+      "total_purchase": "99",
+      "price": "₹378",
+      "actual_Price": "₹798",
+      "discount": "52% off",
+      "id": 66
+    },
+    {
+      "name": "Attar Ayurveda Pure Moringa Leaf Powder For Weight Loss",
+      "rating": "4.3",
+      "total_purchase": "356",
+      "price": "₹236",
+      "actual_Price": "₹350",
+      "discount": "32% off",
+      "id": 67
+    },
+    {
+      "name": "LITVIT Apple Cider Vinegar Gummies for Weight Loss | AC...",
+      "rating": "4.9",
+      "total_purchase": "143",
+      "price": "₹449",
+      "actual_Price": "₹1,200",
+      "discount": "62% off",
+      "id": 68
+    },
+    {
+      "name": "MUSCLEBLAZE MB-VITE Multivitamin",
+      "rating": "4.3",
+      "total_purchase": "52,953",
+      "price": "₹806",
+      "actual_Price": "₹1,299",
+      "discount": "37% off",
+      "id": 69
+    },
+    {
+      "name": "TRUEBASICS Heart Omega-3 Antarctic Krill Oil, for Healt...",
+      "rating": "4.5",
+      "total_purchase": "265",
+      "price": "₹569",
+      "actual_Price": "₹1,099",
+      "discount": "48% off",
+      "id": 70
+    }
+    
+  
+  ]
+}
