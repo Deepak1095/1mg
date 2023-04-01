@@ -142,7 +142,8 @@
       "price": 429,
       "actual_price": 660,
       "discount": "35% off",
-      "id": 1
+      "id": 1,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/kjkbv680-0/face-wash/l/r/7/450-face-wash-clean-clear-original-imafz3hz4fgwhfnf.jpeg?q=70",
@@ -153,7 +154,8 @@
       "price": 334,
       "actual_price": 540,
       "discount": "38% off",
-      "id": 2
+      "id": 2,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/kk76wsw0/fairness/9/e/1/whiteglow-skin-whitening-brightening-gel-creme-spf-25-i-pa-lotus-original-imaez6gegvquar37.jpeg?q=70",
@@ -164,7 +166,8 @@
       "price": 217,
       "actual_price": 290,
       "discount": "25% off",
-      "id": 3
+      "id": 3,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/jyvvgcw0/sunscreen/n/p/p/50-phyto-rx-whitening-brightening-creme-spf-25-pa-50-g-0-lotus-original-imaeza447vsjvefm.jpeg?q=70",
@@ -175,7 +178,8 @@
       "price": 507,
       "actual_price": 745,
       "discount": "31% off",
-      "id": 4
+      "id": 4,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/scrub/c/b/v/-original-imagkpjfbhu9sdjv.jpeg?q=70",
@@ -186,7 +190,8 @@
       "price": 176,
       "actual_price": 320,
       "discount": "45% off",
-      "id": 5
+      "id": 5,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/l3ahpjk0/face-wash/p/y/0/100-vitamin-c-face-wash-with-vitamin-c-and-turmeric-for-skin-original-imagefxgdrggu4eg.jpeg?q=70",
@@ -197,7 +202,8 @@
       "price": 240,
       "actual_price": 259,
       "discount": "7% off",
-      "id": 6
+      "id": 6,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/i/g/g/150-whiteglow-active-skin-whitening-oil-control-face-wash-original-imagjka4brsbzhfw.jpeg?q=70",
@@ -208,7 +214,8 @@
       "price": 297,
       "actual_price": 495,
       "discount": "40% off",
-      "id": 7
+      "id": 7,
+      "quantity":1
    },
     {
     "image": "https://rukminim1.flixcart.com/image/612/612/l0fm07k0/fairness/o/n/8/-original-imagc82pthvgkchm.jpeg?q=70",
@@ -219,7 +226,8 @@
       "price": 521,
       "actual_price": 549,
       "discount": "5% off",
-      "id": 8
+      "id": 8,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/s/i/p/-original-imagn9v5zh9mpghy.jpeg?q=70",
@@ -230,7 +238,8 @@
       "price": 438,
       "actual_price": 499,
       "discount": "12% off",
-      "id": 9
+      "id": 9,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/w/e/k/120-green-tea-pore-cleansing-plum-original-imaggg2mhtgg42xe.jpeg?q=70",
@@ -241,7 +250,8 @@
       "price": 255,
       "actual_price": 360,
       "discount": "29% off",
-      "id": 10
+      "id": 10,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/i/c/n/-original-imagn8sebbqjt2n7.jpeg?q=70",
@@ -252,7 +262,8 @@
       "price": 250,
       "actual_price": 385,
       "discount": "35% off",
-      "id": 13
+      "id": 13,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/l0fm07k0/fairness/e/m/6/-original-imagc8fbhkhgh9xd.jpeg?q=70",
@@ -263,7 +274,8 @@
       "price": 664,
       "actual_price": 699,
       "discount": "5% off",
-      "id": 14
+      "id": 14,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/l1pc3gw0/moisturizer-cream/k/b/n/50-bright-complete-vitamin-c-face-serum-50-ml-get-spot-less-i-original-imagd7uztjmhrghq.jpeg?q=70",
@@ -274,7 +286,8 @@
       "price": 481,
       "actual_price": 875,
       "discount": "45% off",
-      "id": 15
+      "id": 15,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/kt8zb0w0/sunscreen/c/b/3/sunscreen-lotion-spf50-pa-for-indian-skin-with-turmeric-carrot-original-imag6n3g4yfgpen3.jpeg?q=70",
@@ -285,7 +298,8 @@
       "price": 433,
       "actual_price": 499,
       "discount": "13% off",
-      "id": 16
+      "id": 16,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/ktizdzk0/body-skin-treatment/z/s/s/doodh-kesar-body-lotion-boroplus-original-imag6umbdg9zwhsb.jpeg?q=70",
@@ -296,7 +310,8 @@
       "price": 144,
       "actual_price": 320,
       "discount": "55% off",
-      "id": 17
+      "id": 17,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/l09w8sw0/moisturizer-cream/t/f/l/-original-imagc3j9xev7dzzg.jpeg?q=70",
@@ -307,7 +322,8 @@
        "price": 142,
        "actual_price": 155,
        "discount": "8% off",
-       "id": 18
+       "id": 18,
+       "quantity":1
     },
     {
          "image": "https://rukminim1.flixcart.com/image/612/612/krwec280/fairness/i/f/w/15-10-niacinamide-face-serum-with-rice-water-vitamin-b3-with-original-imag5h3qbwufsstk.jpeg?q=70",
@@ -318,7 +334,8 @@
       "price": 313,
       "actual_price": 450,
       "discount": "30% off",
-      "id": 19
+      "id": 19,
+      "quantity":1
      },
     {
         "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/k/m/k/50-radiance-dewy-sunscreen-with-watermelon-niacinamide-spf-50-50-original-imagm8fhjpqddzxz.jpeg?q=70",
@@ -329,7 +346,8 @@
       "price": 359,
       "actual_price": 399,
       "discount": "10% off",
-      "id": 20
+      "id": 20,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/l/d/8/-original-imagnkrybq4s8hph.jpeg?q=70",
@@ -340,7 +358,8 @@
       "price": 279,
       "actual_price": 399,
       "discount": "30% off",
-      "id": 21
+      "id": 21,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/2/6/-original-imaggbtwa8khfgxc.jpeg?q=70",
@@ -351,7 +370,8 @@
       "price": 178,
       "actual_price": 325,
       "discount": "45% off",
-      "id": 22
+      "id": 22,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/kqzj7gw0/fairness/q/7/j/15-vitamin-c-serum-skin-clearing-serum-brightening-anti-aging-original-imag4vbpmwwchhzy.jpeg?q=70",
@@ -362,7 +382,8 @@
       "price": 375,
       "actual_price": 399,
       "discount": "6% off",
-      "id": 24
+      "id": 24,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/kk76wsw0/sunscreen/d/n/1/safe-sun-uv-screen-matte-gel-50-lotus-herbals-original-imafzhjybse4hwq4.jpeg?q=70",
@@ -373,7 +394,8 @@
       "price": 281,
       "actual_price": 375,
       "discount": "25% off",
-      "id": 25
+      "id": 25,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/l3dcl8w0/moisturizer-cream/g/p/y/-original-imageg3j4crfx89p.jpeg?q=70",
@@ -384,7 +406,8 @@
       "price": 243,
       "actual_price": 375,
       "discount": "35% off",
-      "id": 26
+      "id": 26,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/l1whaq80/face-wash/0/c/k/-original-imagdd3e4cegnsyy.jpeg?q=70",
@@ -395,7 +418,8 @@
       "price": 175,
       "actual_price": 249,
       "discount": "7% off",
-      "id": 27
+      "id": 27,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/fairness/i/r/o/-original-imaggusfdpg8ydgg.jpeg?q=70",
@@ -406,7 +430,8 @@
       "price": 183,
       "actual_price": 990,
       "discount": "81% off",
-      "id": 28
+      "id": 28,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/l3t2fm80/sunscreen/o/a/x/-original-imageuhw5cyq69fj.jpeg?q=70",
@@ -417,7 +442,8 @@
       "price": 227,
       "actual_price": 325,
       "discount": "30% off",
-      "id": 29
+      "id": 29,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/f/a/y/-original-imagnn6ntawwhhg2.jpeg?q=70",
@@ -428,7 +454,8 @@
       "price": 217,
       "actual_price": 325,
       "discount": "33% off",
-      "id": 30
+      "id": 30,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/l05lx8w0/moisturizer-cream/o/n/9/100-peach-milk-soft-cream-lakme-original-imagcy6bww2c4kaq.jpeg?q=70",
@@ -439,7 +466,8 @@
       "price": 279,
       "actual_price": 399,
       "discount": "30% off",
-      "id": 31
+      "id": 31,
+      "quantity":1
     },
     
     {
@@ -451,7 +479,8 @@
       "price": 251,
       "actual_price": 375,
       "discount": "33% off",
-      "id": 35
+      "id": 35,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/l4hcx3k0/face-wash/s/p/k/150-ubtan-natural-face-wash-for-all-skin-type-with-turmeric-original-imagfdaa6kpthggw.jpeg?q=70",
@@ -462,7 +491,8 @@
       "price": 318,
       "actual_price": 375,
       "discount": "15% off",
-      "id": 36
+      "id": 36,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/v/b/p/-original-imaghu43gyjzfjp2.jpeg?q=70",
@@ -473,7 +503,8 @@
       "price": 217,
       "actual_price": 279,
       "discount": "22% off",
-      "id": 37
+      "id": 37,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/kr9jafk0/fairness/r/m/x/50-pearls-saffron-night-cream-olifair-original-imag539uty8gs3wv.jpeg?q=70",
@@ -484,7 +515,8 @@
       "price": 1096,
       "actual_price": 1099,
       "discount": "10% off",
-      "id": 38
+      "id": 38,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/ksj9dow0/toner/8/h/3/gulabari-rose-water-250-ml-pack-of-3-dabur-original-imag63fs3xtcmdhk.jpeg?q=70",
@@ -495,7 +527,8 @@
       "price": 191,
       "actual_price": 255,
       "discount": "25% off",
-      "id": 39
+      "id": 39,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/k6s82vk0/moisturizer-cream/h/j/h/400-even-tone-bright-radiance-skin-brightening-body-lotion-joy-original-imafp6aahjugpfha.jpeg?q=70",
@@ -506,7 +539,8 @@
       "price": 199,
       "actual_price": 350,
       "discount": "43% off",
-      "id": 40
+      "id": 40,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/kx50gi80/face-wash/b/j/r/-original-imag9nqpzmgrtaaw.jpeg?q=70",
@@ -517,7 +551,8 @@
       "price": 243,
       "actual_price": 325,
       "discount": "25% off",
-      "id": 41
+      "id": 41,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/kst9gnk0/fairness/6/7/i/30-revivify-hyaluronic-hydra-boosting-intensive-repair-ultimate-original-imag6ahs95tqhkkm.jpeg?q=70",
@@ -528,7 +563,8 @@
       "price": 199,
       "actual_price": 349,
       "discount": "42% off",
-      "id": 42
+      "id": 42,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/kplisnk0/anti-ageing/s/k/a/herbals-youthrx-anti-ageing-tranforming-creme-spf-25-pa-original-imag3sypvkjghpyk.jpeg?q=70",
@@ -539,7 +575,8 @@
       "price": 528,
       "actual_price": 755,
       "discount": "30% off",
-      "id": 43
+      "id": 43,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/ksgehzk0/talc/w/r/f/400-maxx-cool-talc-for-long-lasting-cooling-1-navratna-original-imag6fykeng9zaxg.jpeg?q=70",
@@ -550,7 +587,8 @@
       "price": 180,
       "actual_price": 240,
       "discount": "25% off",
-      "id": 44
+      "id": 44,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/f/4/x/100-honey-malai-face-wash-with-honey-malai-for-nourishing-glow-original-imagkgtskjftgd9z.jpeg?q=70",
@@ -561,7 +599,8 @@
       "price": 232,
       "actual_price": 259,
       "discount": "10% off",
-      "id": 46
+      "id": 46,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/fairness/r/x/y/-original-imagmyp5byj9kz7x.jpeg?q=70",
@@ -572,7 +611,8 @@
       "price": 585,
       "actual_price": 650,
       "discount": "10% off",
-      "id": 47
+      "id": 47,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/fairness/u/a/8/-original-imaggm3xwuhaum5e.jpeg?q=70",
@@ -583,7 +623,8 @@
       "price": 171,
       "actual_price": 199,
       "discount": "14% off",
-      "id": 48
+      "id": 48,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/0/c/j/-original-imagkyxgfb7evphz.jpeg?q=70",
@@ -594,7 +635,8 @@
       "price": 307,
       "actual_price": 410,
       "discount": "25% off",
-      "id": 49
+      "id": 49,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/9/e/s/-original-imagk7hbv286yehm.jpeg?q=70",
@@ -605,7 +647,8 @@
       "price": 180,
       "actual_price": 240,
       "discount": "25% off",
-      "id": 50
+      "id": 50,
+      "quantity":1
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/kzrbiq80/face-wash/a/a/e/-original-imagbzy4b6rrywph.jpeg?q=70",
@@ -616,7 +659,8 @@
       "price": 209,
       "actual_price": 299,
       "discount": "30% off",
-      "id": 51
+      "id": 51,
+      "quantity":1
       },
     {
        "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/fairness/9/e/l/-original-imagmyn5352qzfhv.jpeg?q=70",
@@ -627,7 +671,8 @@
       "price": 535,
       "actual_price": 595,
       "discount": "10% off",
-      "id": 52
+      "id": 52,
+      "quantity":1
     } 
   ],
    "supplements":[
