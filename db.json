@@ -2892,8 +2892,7 @@
       "quantity":1
     }
   ],
-  "All_PRODUCTS":{
-    "skin_care":[
+  "All_PRODUCTS":[
       {
         "image": "https://rukminim1.flixcart.com/image/612/612/k3uhhu80/cleanser/h/6/g/250-anti-tan-cleanser-250-gm-ozone-original-imafmv4hnjpwy3ys.jpeg?q=70",
         "name": "OZONE D Tan Facial Cleanser with the Goodness of Cucumb...",
@@ -3480,8 +3479,7 @@
         "quantity":1,
         "category":"skin_care"
       } 
-    ],
-     "supplements":[
+    ,
       {
         "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/protein-supplement/c/k/e/-original-imagmfvyyfc3qrnd.jpeg?q=70",
         "name": "Kobra Labs The Bull Mass Gainer Weight Gainers/Mass Gai...",
@@ -4082,8 +4080,7 @@
         "quantity":1,
         "category":"supplements"
       }
-    ],
-    "vitamins":[
+    ,
       {
         "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/vitamin-supplement/e/s/t/60-multivitamin-gummies-nourishes-hair-promotes-hair-volume-original-imaggsw5xcjjb5sf.jpeg?q=70",
         "name": "mars by GHC Multivitamin Gummies, Nourishes Hair & Prom...",
@@ -5044,8 +5041,7 @@
         "quantity":1,
         "category":"vitamins"
       }
-    ],
-    "ayurveda_medicine":[
+    ,
       {
         "image": "https://rukminim1.flixcart.com/image/612/612/kzvlua80/ayurvedic/7/6/v/zero-tar-chavanprash-2x150ml-helpful-for-breathlessness-smokers-original-imagbsj9pjabza36.jpeg?q=70",
         "name": "Hindrishi Ayurveda Zero tar & Chavanprash 2X150ml Helpf...",
@@ -5898,8 +5894,8 @@
         "quantity":1,
         "category":"ayurveda"
       }
+    
     ]
-  }
   
   
 }
